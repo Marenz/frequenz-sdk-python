@@ -6,11 +6,12 @@
 
 ## Upgrading
 
-<!-- Here goes notes on how to upgrade from previous versions, including deprecations and what they should be replaced with --> 
+<!-- Here goes notes on how to upgrade from previous versions, including deprecations and what they should be replaced with -->
 
 ## New Features
 
 * Add quantity class `Frequency` for frequency values.
+* Support float.inf for `Quantity` objects.
 
 ## Bug Fixes
 
